@@ -71,5 +71,17 @@
       "id": "fe228419-f7df-49d2-a4cd-43e625b26075",
       "name": "Blue"
     }
+  ],
+  "sizes": [
+    {
+      "id": "3cc158c7-eff6-4152-afa3-50d9487584c3",
+      "name": "Small"
+    },{
+      "id": "96d37388-6ca9-4aba-bc2a-dafeb082fbd9",
+      "name": "Medium"
+    },{
+      "id": "65f33b82-48dc-4265-88cb-f4f467e5acba",
+      "name": "Large"
+    }
   ]
 }
